@@ -1,0 +1,6 @@
+,Constant parameters
+metrics,"['accuracy', 'val_accuracy', 'max']"
+last_act,softmax
+loss,binary_crossentropy
+epochs,40
+activations,relu

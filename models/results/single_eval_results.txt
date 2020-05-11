@@ -1,0 +1,35 @@
+
+
+Results for none
+Classification
+evaporation metrics: [[0.98, 49], [0.98, 49]]
+surface-based metrics: [[0.9998, 4999], [0.9998, 4999]]
+Regression
+evaporation rmse: "[[0.27210692], [0.27210692]]"
+improvement: "[0.]"
+surface-based rmse: "[[0.48104107, 1.3101063, 2.6476014], [0.48104107, 1.3101063, 2.6476014]]"
+improvement: "[0. 0. 0.]"
+
+Results for beta0
+Classification
+evaporation metrics: [[0.96, 48], [0.96, 48]]
+surface-based metrics: [[0.9998, 4999], [0.9998, 4999]]
+Regression
+evaporation rmse: "[[0.2812849], [0.2812849]]"
+improvement: "[0.]"
+surface-based rmse: "[[0.52822566, 2.1052258, 3.7397296], [0.52822566, 2.1052258, 3.7397296]]"
+improvement: "[0. 0. 0.]"
+
+Results for beta1
+Classification
+evaporation metrics: [[0.88, 44], [0.88, 44]]
+surface-based metrics: [[0.9986, 4993], [0.9986, 4993]]
+Regression
+evaporation rmse: "[[0.45173183], [0.45173183]]"
+improvement: "[0.]"
+surface-based rmse: "[[2.3952088, 3.601679, 4.181775], [2.3952088, 3.601679, 4.181775]]"
+improvement: "[0. 0. 0.]"
+
+Total time: 0.0012307591419141914
+Classification time: 0.000555047590759076
+Regression time: 0.0006753235643564357

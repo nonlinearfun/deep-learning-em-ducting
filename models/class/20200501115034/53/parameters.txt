@@ -1,0 +1,1 @@
+{'neurons': [922, 768, 418, 366, 237, 2], 'lr': 0.0002984144831810457, 'bs': 134, 'dropout': 0.2702805759251108, 'filepath': '53'}{'epochs': 40, 'loss': 'binary_crossentropy', 'activations': 'relu', 'last_act': 'softmax', 'metrics': ['accuracy', 'val_accuracy', 'max']}

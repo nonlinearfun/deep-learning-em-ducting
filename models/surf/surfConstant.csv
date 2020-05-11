@@ -1,0 +1,6 @@
+,Constant parameters
+activations,relu
+last_act,linear
+metrics,"['mse', 'val_loss', 'min']"
+epochs,3000
+loss,mean_squared_error

@@ -1,0 +1,1 @@
+{'neurons': [910, 745, 401, 377, 284, 344, 3], 'lr': 0.0008834241088977892, 'bs': 144, 'dropout': 0.26504087254947806, 'filepath': '23'}{'epochs': 3000, 'activations': 'relu', 'last_act': 'linear', 'loss': 'mean_squared_error', 'metrics': ['mse', 'val_loss', 'min']}
