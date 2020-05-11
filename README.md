@@ -1,5 +1,5 @@
 # deep-learning-em-ducting
-Code and results in this repository accompanies the manuscript: Deep Learning Approach for Differentiating Atmospheric Ducting Within the Marine Atmospheric Boundary Layer. Hilarie Sit and Christopher J. Earls.
+Code and results in this repository accompany the manuscript: Deep Learning Approach for Differentiating Atmospheric Ducting Within the Marine Atmospheric Boundary Layer. Hilarie Sit and Christopher J. Earls.
 
 Dataset can be downloaded [here](https://drive.google.com/open?id=13je_sQwJzo9oEssgvuLmDJxjo8qiOsb0).
 
@@ -24,9 +24,9 @@ python hypersearch.py --task class
 Results from the hyperparameter search are located within the 'models' directory, in folders corresponding to the specified tasks. Models and history logs of the top five models can also be found in these folders.
 
 ## Run model evaluation
-Model evaluation can be performed by running evaluation.py:
+Model evaluation can be performed by running evaluation.py (specify ensemble):
 
 ```
-python evaluation.py
+python evaluation.py --ensemble
 ```
 Results from evaluation are located in 'models/results'.
